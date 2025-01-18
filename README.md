@@ -24,9 +24,47 @@ Please click the link below to see the roadmap
   Ijeoma Itanyi (Project Lead)
   Stephane Fadanka (Open Science Mentor)
   
-## Contributing
+# Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
+  ## How to contribute?
+
+Thank you for taking the time to contribute to this project. 🎉
+
+This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
+You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
+
+⭐️ You are acknowledged for all kinds of contributions
+---
+
+## Whatever is your availability, there is a way to contribute to this GitHub repository.
+
+You can read our [README](./README.md) file to find details and the next milestones in the project.
+
+🛠 I am ready to contribute 
+---
+- Raise mistakes, errors or missing information on this repository by opening a [Pull Request](../../pulls)
+  - Read details on [how to open a Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
+  - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
+  - Start work on a contribution that is already listed as an issue or something you’ve already discussed
+  - A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
+
+📫 Contact
+---
+
+For any organisation-related queries or concerns, you can directly reach out to **Ijeoma Itanyi by emailing [ijeoma.itanyi@mail.utoronto.ca](mailto:ijeoma.itanyi@mail.utoronto.ca)**.
+
+♻️ License
+---
+
+This work is licensed under the **MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation)**. 
+<!--Replace these sentences to appropriate reflect the license chosen in your project-->
+You are free to share and adapt the material for any purpose, even commercially, 
+as long as you provide attribution (give appropriate credit, provide a link to the license, 
+and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
+licensor endorses you or your use, and with no additional restrictions.
+<!--Replace these sentences to appropriate reflect the license chosen in your project-->
+
+For a more detailed contribution guideline, please check o) for contributors.
 - **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
 - **Resource Plans:** Details on available resources and recommended practices for the project team.
 
