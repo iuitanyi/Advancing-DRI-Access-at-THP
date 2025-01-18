@@ -17,12 +17,13 @@ In this project, we will conduct a needs assessment survey and training on resea
 ## Roadmap & Milestones
 
 Please click the link below to see the roadmap
+[roadmap](../../pulls)
+
 
 ## The Team
 
 - **Members:**
-  Ijeoma Itanyi (Project Lead)
-  Stephane Fadanka (Open Science Mentor)
+  Ijeoma Itanyi (Project Lead), Stephane Fadanka (Open Science Mentor)
   
 # Contributing
 
