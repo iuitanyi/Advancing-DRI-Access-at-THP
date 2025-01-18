@@ -17,7 +17,7 @@ In this project, we will conduct a needs assessment survey and training on resea
 ## Roadmap & Milestones
 
 Please click here to see the 
-[roadmap](https://github.com/iuitanyi/Advancing-DRI-Access-at-THP/blob/8023685ccbdc1d9239f974049552947efa0e2216/DRI%20Project%20Documents/%5BOLS-9%5D%20Week%2002%20-%20Open%20Canvas%20-%20Ijeoma%20Itanyi_FINAL.pptx)
+[roadmap](https://github.com/iuitanyi/Advancing-DRI-Access-at-THP/blob/8023685ccbdc1d9239f974049552947efa0e2216/DRI%20Project%20Documents/%5BOLS-9%5D%20Week%2002%20-%20Open%20Canvas%20-%20Ijeoma%20Itanyi_FINAL.pptx) of the project.
 
 
 ## The Team
@@ -25,8 +25,7 @@ Please click here to see the
 - **Members:**
   Ijeoma Itanyi (Project Lead), Stephane Fadanka (Open Science Mentor)
   
-# Contributing
-
+## Contributing
   ## How to contribute?
 
 Thank you for taking the time to contribute to this project. 🎉
