@@ -36,10 +36,6 @@ You can suggest topics to include in this repository, report mistakes/bugs, crea
 ⭐️ You are acknowledged for all kinds of contributions
 ---
 
-## Whatever is your availability, there is a way to contribute to this GitHub repository.
-
-You can read our [README](./README.md) file to find details and the next milestones in the project.
-
 🛠 I am ready to contribute 
 ---
 - Raise mistakes, errors or missing information on this repository by opening a [Pull Request](../../pulls)
@@ -63,10 +59,6 @@ as long as you provide attribution (give appropriate credit, provide a link to t
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
 licensor endorses you or your use, and with no additional restrictions.
 <!--Replace these sentences to appropriate reflect the license chosen in your project-->
-
-For a more detailed contribution guideline, please check o) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
 
 ## Licensing
 
