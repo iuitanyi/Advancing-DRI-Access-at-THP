@@ -1,28 +1,29 @@
-# Project Quick Start
+# Strengthening Digital Research Infrastructure at Trillium Health Partners: Advancing Equitable Access for Racialized Researchers
 
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
+This repository provides an overview of this project aimed at advancing equitable access to digital research infrastructure for racialized researchers. It includes the project's vision, mission, and  roadmap.  
 
-*A sentence summarising what to expect from this repository*  
 
 ## Vision and Mission
 
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
+- **Vision:** To improve awareness about digital research infrastructure (DIR) resources and facilitate access to tools and resources about research data management.
+  
+- **Mission:** The goal of this project is to advance equitable access to digital research infrastructure (DRI) for racialized researchers at Trillium Health Partners.
 
 ## About
 
-Motivation and background in a nutshell.
+Racialized researchers experience systemic barriers which affect their ability to make significant strides within academic institutions. Some of these barriers include the lack of awareness about and access to DRI tools and resources. 
+In this project, we will conduct a needs assessment survey and training on research data management. The survey will collect data on awareness of the Digital Alliance of Canada’s DRI services, and barriers and facilitators to accessing these services. A hybrid training will be conducted on best practices for research data management. In addition, training participants will receive information on research data management tools and resources and how to access them.
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+Please click the link below to see the roadmap
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
-
+- **Members:**
+  Ijeoma Itanyi (Project Lead)
+  Stephane Fadanka (Open Science Mentor)
+  
 ## Contributing
 
 - **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
