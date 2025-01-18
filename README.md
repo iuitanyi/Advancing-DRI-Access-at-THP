@@ -52,24 +52,10 @@ For any organisation-related queries or concerns, you can directly reach out to 
 ♻️ License
 ---
 
-This work is licensed under the **MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation)**. 
-<!--Replace these sentences to appropriate reflect the license chosen in your project-->
+This work is licensed under the **Creative Commons Attribution 4.0 International license (for documentation)**. 
+
 You are free to share and adapt the material for any purpose, even commercially, 
 as long as you provide attribution (give appropriate credit, provide a link to the license, 
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
 licensor endorses you or your use, and with no additional restrictions.
-<!--Replace these sentences to appropriate reflect the license chosen in your project-->
 
-## Licensing
-
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
-
-## Citing & Acknowledgement
-
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
-
-## Contact
-
-- **Reach Out:** Contact details for questions, feedback, or ideas.
