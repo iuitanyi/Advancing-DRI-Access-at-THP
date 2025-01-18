@@ -17,7 +17,7 @@ In this project, we will conduct a needs assessment survey and training on resea
 ## Roadmap & Milestones
 
 Please click here to see the 
-[roadmap](https://github.com/iuitanyi/Advancing-DRI-Access-at-THP/blob/8023685ccbdc1d9239f974049552947efa0e2216/DRI%20Project%20Documents/%5BOLS-9%5D%20Week%2002%20-%20Open%20Canvas%20-%20Ijeoma%20Itanyi_FINAL.pptx) of the project. The mountain of engagement can be found here. 
+[roadmap](https://github.com/iuitanyi/Advancing-DRI-Access-at-THP/blob/89350b2f4b47ed5eaba61840a29472a18e721676/DRI%20Project%20Documents/Roadmap%20of%20DRI%20EDIA%20Project.png) of the project. The mountain of engagement can be found [roadmap](https://github.com/iuitanyi/Advancing-DRI-Access-at-THP/blob/89350b2f4b47ed5eaba61840a29472a18e721676/DRI%20Project%20Documents/Roadmap%20of%20DRI%20EDIA%20Project.png). 
 
 
 ## The Team
